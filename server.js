@@ -12,7 +12,7 @@ import cartRoutes from './routes/cart.js';
 const app = express();
 app.use(express.json());
 app.use(cors({
-  origin: 'http://localhost:3000' || 'https://main--ecommerce-project-main.netlify.app' || '*',
+  origin: ['http://localhost:3000', 'https://main--ecommerce-project-main.netlify.app'],
   methods: ['GET', 'POST', 'PUT', 'DELETE'],
   credentials: true,
 }));
