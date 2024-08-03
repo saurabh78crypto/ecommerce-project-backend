@@ -50,3 +50,7 @@ Replace `<username>`, `<password>`, `<your-jwt-secret>`, `<your-email-address>`,
 ```bash
 npm start
 ```
+
+## Deployment
+
+The backend is deployed on Render. You can access the live backend at `https://ecommerce-project-backend-gy68.onrender.com`.
