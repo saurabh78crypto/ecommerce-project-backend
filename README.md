@@ -23,8 +23,8 @@ This is a ecommerce project that includes user authentication, role management, 
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/saurabh78crypto/ecommerce-project-backend.git
+cd ecommerce-project-backend
 ```
 
 2. Install dependencies
